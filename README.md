@@ -1,5 +1,7 @@
 # The Marauders - Task Scheduler
 
+![image](https://user-images.githubusercontent.com/25168901/149856531-6b19e479-5dea-4eb9-bd21-add40c1a9304.png)
+
 This is the project repository for Group 7 (*The Marauders*). It consists of the project code, and the documentation produced during the planning and implementation stages.
 
 ## Usage Instructions
