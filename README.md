@@ -6,11 +6,11 @@ This is the project repository for Group 7 (*The Marauders*). It consists of the
 
 For more information about the specific scheduling problem that this project aims to solve, see the papers below:
 
-[Yu-Kwong Kwoka, Ishfaq Ahmad. **On multiprocessor task scheduling using efficient state space search approaches**](https://www.researchgate.net/publication/222302496_On_multiprocessor_task_scheduling_using_efficient_state_space_search_approaches)
+[Yu-Kwong Kwoka, Ishfaq Ahmad. **On multiprocessor task scheduling using efficient state space search approaches** (2005).](https://www.researchgate.net/publication/222302496_On_multiprocessor_task_scheduling_using_efficient_state_space_search_approaches)
 
-[Oliver Sinnen. **Reducing the solution space of optimal task scheduling**](https://www.sciencedirect.com/science/article/abs/pii/S0305054813002542)
+[Ahmed Zaki Semar Shahul & Oliver Sinnen. **Scheduling task graphs optimally with A\*** (2010).](https://link.springer.com/article/10.1007%2Fs11227-010-0395-1)
 
-[Ahmed Zaki Semar Shahul & Oliver Sinnen. **Scheduling task graphs optimally with A\***](https://link.springer.com/article/10.1007%2Fs11227-010-0395-1)
+[Oliver Sinnen. **Reducing the solution space of optimal task scheduling** (2013).](https://www.sciencedirect.com/science/article/abs/pii/S0305054813002542)
 
 
 ## Usage Instructions
